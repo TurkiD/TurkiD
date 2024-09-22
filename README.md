@@ -1,5 +1,5 @@
 ### Hi there 👋. I'm Turki
-- 🌱 I’m currently taking a bootcamp in Full-Stack developer from SDA/Integrify and I'm really having a great time ✨.
+- 🌱 I completed a bootcamp in Full-Stack developer from SDA/Integrify and I'm really having a great time ✨.
 - 🏢 I preferred working on Jeddah.
 - 💬 I speak Arabic and English.
 <!--
